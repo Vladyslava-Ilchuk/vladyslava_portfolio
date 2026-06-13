@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Vladyslava Ilchuk**, Junior Data Analyst.
 
-🌐 **Live site:** [vladyslava-ilchuk.github.io](https://Vladyslava-Ilchuk.github.io)
+🌐 **Live site:** [vladyslava-ilchuk.github.io](https://vladyslava-ilchuk.github.io/portfolio/)
 
 ---
 
